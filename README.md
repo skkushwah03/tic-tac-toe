@@ -1,2 +1,2 @@
 # tic-tac-toe
-this is my first project
+this is my first project game
